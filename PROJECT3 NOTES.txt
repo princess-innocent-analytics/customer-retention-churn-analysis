@@ -1,0 +1,88 @@
+✅ DAY 1 — Data Setup & Understanding (FOUNDATION)
+What you did
+
+✔ Loaded the dataset into SQLite (DB Browser)
+✔ Explored the table structure (SELECT *, LIMIT)
+✔ Understood columns:
+
+InvoiceNo
+
+InvoiceDate
+
+Quantity
+
+UnitPrice
+
+CustomerID
+
+Country
+✔ Confirmed this is transactional e-commerce data
+✔ Identified that CustomerID can be NULL (important later)
+
+Why this matters
+
+This shows:
+
+You can inspect raw data
+
+You understand what the dataset represents
+
+You don’t jump into analysis blindly
+
+Portfolio-ready wording (Day 1)
+
+“Imported and explored an e-commerce transaction dataset in SQLite, inspecting schema, key fields, and data quality issues such as missing customer identifiers.”
+
+
+
+✅ DAY 2 — Customer Behaviour Analysis (ANALYTICAL THINKING)
+What you did
+
+✔ Counted total unique orders
+✔ Identified first and last purchase dates
+✔ Checked missing CustomerIDs
+✔ Created logic to identify:
+
+One-time customers
+
+Repeat customers
+✔ Grouped and aggregated data using:
+
+COUNT(DISTINCT …)
+
+MIN(), MAX()
+
+GROUP BY
+
+Why this matters
+
+This shows:
+
+You understand customer behaviour
+
+You can aggregate transactional data
+
+You can think like a business analyst, not just write SQL
+
+Portfolio-ready wording (Day 2)
+
+“Performed customer behaviour analysis using SQL by identifying repeat vs one-time customers, analysing purchase frequency, and determining first and last purchase dates.”
+
+
+
+✅ DAY 3 — Churn Analysis (BUSINESS IMPACT)
+
+✔ Defined churn logic (180 days inactive)
+✔ Calculated last purchase date per customer
+✔ Calculated days since last purchase
+✔ Classified customers as Active vs Churned
+✔ Verified results in SQLite
+✔ Exported churn table to CSV
+✔ Organised outputs for portfolio use
+
+
+“Built a customer churn analysis using SQL, defining churn as 180 days of inactivity, calculating last purchase dates, inactivity duration, and churn status, then exporting results for reporting.”
+
+
+
+

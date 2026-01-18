@@ -1,19 +1,19 @@
-✅ DAY 1 — Data Setup & Understanding (FOUNDATION)
+DAY 1 — Data Setup & Understanding (FOUNDATION)
 What you did
 
 ✔ Loaded the dataset into SQLite (DB Browser)
 ✔ Explored the table structure (SELECT *, LIMIT)
 ✔ Understood columns:
 
-InvoiceNo
+- InvoiceNo
 
-InvoiceDate
+- InvoiceDate
 
-Quantity
+- Quantity
 
-UnitPrice
+- UnitPrice
 
-CustomerID
+- CustomerID
 
 Country
 ✔ Confirmed this is transactional e-commerce data
@@ -23,19 +23,17 @@ Why this matters
 
 This shows:
 
-You can inspect raw data
+- You can inspect raw data
 
-You understand what the dataset represents
+- You understand what the dataset represents
 
-You don’t jump into analysis blindly
-
-Portfolio-ready wording (Day 1)
+- You don’t jump into analysis blindly
 
 “Imported and explored an e-commerce transaction dataset in SQLite, inspecting schema, key fields, and data quality issues such as missing customer identifiers.”
 
 
 
-✅ DAY 2 — Customer Behaviour Analysis (ANALYTICAL THINKING)
+DAY 2 — Customer Behaviour Analysis (ANALYTICAL THINKING)
 What you did
 
 ✔ Counted total unique orders
@@ -58,19 +56,17 @@ Why this matters
 
 This shows:
 
-You understand customer behaviour
+- You understand customer behaviour
 
-You can aggregate transactional data
+- You can aggregate transactional data
 
-You can think like a business analyst, not just write SQL
-
-Portfolio-ready wording (Day 2)
+- You can think like a business analyst, not just write SQL
 
 “Performed customer behaviour analysis using SQL by identifying repeat vs one-time customers, analysing purchase frequency, and determining first and last purchase dates.”
 
 
 
-✅ DAY 3 — Churn Analysis (BUSINESS IMPACT)
+DAY 3 — Churn Analysis (BUSINESS IMPACT)
 
 ✔ Defined churn logic (180 days inactive)
 ✔ Calculated last purchase date per customer
@@ -80,8 +76,11 @@ Portfolio-ready wording (Day 2)
 ✔ Exported churn table to CSV
 ✔ Organised outputs for portfolio use
 
-
 “Built a customer churn analysis using SQL, defining churn as 180 days of inactivity, calculating last purchase dates, inactivity duration, and churn status, then exporting results for reporting.”
+
+Author:
+Princess (Adaku) Innocent
+
 
 
 

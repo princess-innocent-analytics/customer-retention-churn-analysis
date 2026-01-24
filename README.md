@@ -76,10 +76,9 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 - Customer Status Distribution (Active vs Churned)
 - Customer Activity Over Time
 - Churn by Inactivity Period
+  
 
-<p align="center">
-  <img src="images/page1_executive_overview.png" width="900">
-</p>
+![Page 1 – Executive Overview Dashboard](images/Page1_executive_overview.png)
 
 ---
 
@@ -99,9 +98,7 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 - Retention declines as inactivity increases
 - Customers in higher inactivity buckets show higher churn risk
 
-<p align="center">
-  <img src="images/page2_customer_retention.png" width="900">
-</p>
+![Page 2 – Customer Retention Dashboard](images/Page2_customer_retention.png)
 
 ---
 
@@ -117,9 +114,7 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 - Customers at Risk by Inactivity Period
 - Customers Requiring Re-engagement (Table)
 
-<p align="center">
-  <img src="images/page3_risk_action.png" width="900">
-</p>
+![Page 3 – Risk & Action Dashboard](images/Page3_risk_action.png)
 
 ---
 

@@ -77,9 +77,6 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 - Customer Activity Over Time
 - Churn by Inactivity Period
   
-
-![Page 1 – Executive Overview Dashboard]([images/Page1_executive_overview.png](https://github.com/princess-innocent-analytics/customer-retention-churn-analysis/blob/main/Page1_executive_overview.png))
-
 ---
 
 ### Page 2 — Customer Retention Analysis
@@ -98,9 +95,6 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 - Retention declines as inactivity increases
 - Customers in higher inactivity buckets show higher churn risk
 
-![Page 2 – Customer Retention Dashboard](images/Page2_customer_retention.png)
-
----
 
 ### Page 3 — Risk & Action Analysis
 **Purpose:** Translate insights into business actions
@@ -113,8 +107,6 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 **Visuals:**
 - Customers at Risk by Inactivity Period
 - Customers Requiring Re-engagement (Table)
-
-![Page 3 – Risk & Action Dashboard](images/Page3_risk_action.png)
 
 ---
 

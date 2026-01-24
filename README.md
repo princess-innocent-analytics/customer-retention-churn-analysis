@@ -78,7 +78,7 @@ This enables deeper behavioural and risk analysis beyond binary churn.
 - Churn by Inactivity Period
   
 
-![Page 1 – Executive Overview Dashboard](images/Page1_executive_overview.png)
+![Page 1 – Executive Overview Dashboard]([images/Page1_executive_overview.png](https://github.com/princess-innocent-analytics/customer-retention-churn-analysis/blob/main/Page1_executive_overview.png))
 
 ---
 
